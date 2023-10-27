@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/97d1cf3c-0ef8-410d-918e-e657171d9033/deploy-status)](https://app.netlify.com/sites/berlin-clock-atdd/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
